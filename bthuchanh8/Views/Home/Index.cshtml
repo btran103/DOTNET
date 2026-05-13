@@ -1,0 +1,54 @@
+﻿@model IEnumerable<bthuchanh8.Models.Product>
+
+<div class="container mt-4">
+
+    <h2 class="text-center text-primary mb-4">Quản lý sản phẩm</h2>
+
+    <form method="get" class="row g-2 mb-3">
+        <div class="col-md-4">
+            <input class="form-control" type="text" name="searchString" placeholder="Tìm sản phẩm..." />
+        </div>
+
+        <div class="col-md-4">
+            <select class="form-select" name="categoryId">
+                <option value="">--Danh mục--</option>
+                @foreach (var c in ViewBag.Categories)
+                {
+                    <option value="@c.Id">@c.Name</option>
+                }
+            </select>
+        </div>
+
+        <div class="col-md-4">
+            <button class="btn btn-success w-100">Lọc</button>
+        </div>
+    </form>
+
+    <a asp-action="Create" class="btn btn-primary mb-3">+ Thêm sản phẩm</a>
+
+    <table class="table table-bordered table-hover text-center">
+        <thead class="table-dark">
+            <tr>
+                <th>Tên</th>
+                <th>Giá</th>
+                <th>Danh mục</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Price</td>
+                    <td>@p.Category?.Name</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@p.Id" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="Delete" asp-route-id="@p.Id" class="btn btn-danger btn-sm">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

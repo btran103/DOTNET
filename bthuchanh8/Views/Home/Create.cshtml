@@ -1,0 +1,26 @@
+﻿@model bthuchanh8.Models.Product
+
+<div class="container mt-4">
+    <h2 class="text-primary">Thêm sản phẩm</h2>
+
+    <form asp-action="Create" class="mt-3">
+
+        <div class="mb-3">
+            <label class="form-label">Tên</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Giá</label>
+            <input asp-for="Price" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Danh mục</label>
+            <select asp-for="CategoryId" asp-items="ViewBag.CategoryId" class="form-select"></select>
+        </div>
+
+        <button class="btn btn-success">Lưu</button>
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </form>
+</div>
