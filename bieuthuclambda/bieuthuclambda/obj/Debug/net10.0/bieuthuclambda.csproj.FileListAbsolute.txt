@@ -1,0 +1,14 @@
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\bin\Debug\net10.0\bieuthuclambda.exe
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\bin\Debug\net10.0\bieuthuclambda.deps.json
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\bin\Debug\net10.0\bieuthuclambda.runtimeconfig.json
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\bin\Debug\net10.0\bieuthuclambda.dll
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\bin\Debug\net10.0\bieuthuclambda.pdb
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\obj\Debug\net10.0\bieuthuclambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\obj\Debug\net10.0\bieuthuclambda.AssemblyInfoInputs.cache
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\obj\Debug\net10.0\bieuthuclambda.AssemblyInfo.cs
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\obj\Debug\net10.0\bieuthuclambda.csproj.CoreCompileInputs.cache
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\obj\Debug\net10.0\bieuthuclambda.dll
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\obj\Debug\net10.0\refint\bieuthuclambda.dll
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\obj\Debug\net10.0\bieuthuclambda.pdb
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\obj\Debug\net10.0\bieuthuclambda.genruntimeconfig.cache
+C:\Users\Bao Tran\source\repos\bieuthuclambda\bieuthuclambda\obj\Debug\net10.0\ref\bieuthuclambda.dll
