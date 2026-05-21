@@ -1,0 +1,14 @@
+C:\Users\Bao Tran\source\repos\bth1\bth1\bin\Debug\net10.0\bth1.exe
+C:\Users\Bao Tran\source\repos\bth1\bth1\bin\Debug\net10.0\bth1.deps.json
+C:\Users\Bao Tran\source\repos\bth1\bth1\bin\Debug\net10.0\bth1.runtimeconfig.json
+C:\Users\Bao Tran\source\repos\bth1\bth1\bin\Debug\net10.0\bth1.dll
+C:\Users\Bao Tran\source\repos\bth1\bth1\bin\Debug\net10.0\bth1.pdb
+C:\Users\Bao Tran\source\repos\bth1\bth1\obj\Debug\net10.0\bth1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bao Tran\source\repos\bth1\bth1\obj\Debug\net10.0\bth1.AssemblyInfoInputs.cache
+C:\Users\Bao Tran\source\repos\bth1\bth1\obj\Debug\net10.0\bth1.AssemblyInfo.cs
+C:\Users\Bao Tran\source\repos\bth1\bth1\obj\Debug\net10.0\bth1.csproj.CoreCompileInputs.cache
+C:\Users\Bao Tran\source\repos\bth1\bth1\obj\Debug\net10.0\bth1.dll
+C:\Users\Bao Tran\source\repos\bth1\bth1\obj\Debug\net10.0\refint\bth1.dll
+C:\Users\Bao Tran\source\repos\bth1\bth1\obj\Debug\net10.0\bth1.pdb
+C:\Users\Bao Tran\source\repos\bth1\bth1\obj\Debug\net10.0\bth1.genruntimeconfig.cache
+C:\Users\Bao Tran\source\repos\bth1\bth1\obj\Debug\net10.0\ref\bth1.dll
